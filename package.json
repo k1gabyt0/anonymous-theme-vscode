@@ -1,0 +1,21 @@
+{
+  "name": "anonymous-theme",
+  "displayName": "Anonymous;Theme",
+  "description": "Inspired by game 'Anonymous;Code' set of colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anonymous;Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anonymous;Theme-color-theme.json"
+      }
+    ]
+  }
+}
