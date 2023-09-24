@@ -20,19 +20,21 @@
 		"input.background": "#212121",
 		"input.border": "#212121",
 		// sidebar
+		"icon.foreground": "#eb6a09",
 		"sideBarTitle.foreground": "#eeeeee",
 		"sideBar.background": "#212121",
 		//// list 
-		"list.activeSelectionBackground": "#212121",
-		"list.activeSelectionForeground": "#eeeeee",
-		"list.highlightForeground": "#eeeeee",
-		// "list.hoverBackground": "#0fbeff",
+		"list.activeSelectionBackground": "#0fbeff",
+		"list.activeSelectionIconForeground": "#212121",
+		"list.activeSelectionForeground": "#212121",
+		"list.inactiveSelectionBackground": "#0fbfff4b",
+		"list.inactiveSelectionForeground": "#eeeeee",
 		// badge
 		"badge.background": "#0fbeff",
 		"badge.foreground": "#212121",
 		// activity
 		"activityBarBadge.background": "#eb6a09",
-		"activityBar.foreground": "#eeeeee",
+		"activityBar.foreground": "#eb6a09",
 		"activityBar.background": "#212121",
 		"activityBar.border": "#212121",
 		// status
@@ -43,9 +45,10 @@
 		"statusBarItem.remoteBackground": "#0fbeff",
 		"statusBar.border": "#212121",
 		// tools
-		"debugToolBar.background": "#eb6a09",
+		"debugToolBar.background": "#212121",
+		"debugToolBar.border": "#eb6a09",
 		"peekViewResult.background": "#212121",
-		"peekViewResult.selectionBackground": "#212121",
+		"peekViewResult.selectionBackground": "#eb6a09",
 		"peekViewResult.selectionForeground": "#eeeeee",
 		"peekViewResult.fileForeground": "#eeeeee",
 		"peekViewResult.lineForeground": "#eeeeee",
