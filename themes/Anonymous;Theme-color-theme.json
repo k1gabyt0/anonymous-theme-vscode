@@ -1,13 +1,10 @@
 {
 	"name": "Anonymous;Theme",
 	"colors": {
-		// editor
 		"editor.background": "#212121",
 		"editor.foreground": "#eeeeee",
 		"editor.foldBackground": "#212121",
 		"editor.lineHighlightBorder": "#212121",
-		// "editor.selectionBackground": "#0fbeff",
-		// "editor.selectionForeground": "#212121",
 		"editorGroup.dropBackground": "#212121",
 		"editorGroupHeader.tabsBackground": "#212121",
 		"editorGroupHeader.border": "#212121",
@@ -16,35 +13,28 @@
 		"editorLineNumber.foreground": "#eeeeee",
 		"editorWidget.background": "#212121",
 		"editorWidget.border": "#212121",
-		// input
 		"input.background": "#212121",
 		"input.border": "#212121",
-		// sidebar
-		"icon.foreground": "#eb6a09",
+		"icon.foreground": "#eeeeee",
 		"sideBarTitle.foreground": "#eeeeee",
 		"sideBar.background": "#212121",
-		//// list 
 		"list.activeSelectionBackground": "#0fbeff",
 		"list.activeSelectionIconForeground": "#212121",
 		"list.activeSelectionForeground": "#212121",
 		"list.inactiveSelectionBackground": "#0fbfff4b",
 		"list.inactiveSelectionForeground": "#eeeeee",
-		// badge
 		"badge.background": "#0fbeff",
 		"badge.foreground": "#212121",
-		// activity
 		"activityBarBadge.background": "#eb6a09",
-		"activityBar.foreground": "#eb6a09",
+		"activityBar.foreground": "#eeeeee",
 		"activityBar.background": "#212121",
 		"activityBar.border": "#212121",
-		// status
 		"statusBar.foreground": "#212121",
 		"statusBar.background": "#0fbeff",
 		"statusBar.debuggingBackground": "#eb6a09",
 		"statusBar.noFolderBackground": "#0fbeff",
 		"statusBarItem.remoteBackground": "#0fbeff",
 		"statusBar.border": "#212121",
-		// tools
 		"debugToolBar.background": "#212121",
 		"debugToolBar.border": "#eb6a09",
 		"peekViewResult.background": "#212121",
