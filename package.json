@@ -1,13 +1,27 @@
 {
   "name": "anonymous-theme",
   "displayName": "Anonymous;Theme",
-  "description": "Inspired by game 'Anonymous;Code' set of colors",
-  "version": "0.0.1",
+  "publisher": "k1gabyt0",
+  "description": "The set of colors was inspired by the game 'Anonymous;Code'",
+  "version": "1.0.0",
+  "icon": "assets/icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k1gabyt0/anonymous-theme-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/k1gabyt0/anonymous-theme-vscode/issues"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
   "categories": [
     "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
   ],
   "contributes": {
     "themes": [
